@@ -1,0 +1,19 @@
+# Artefatos do app publicado = apenas index.html/.nojekyll/README.md
+# Dados e pipeline R (não fazem parte do app no GitHub Pages)
+data/
+cache/
+output/
+scripts/
+logs/
+*.R
+*.zip
+*.gpkg
+*.rds
+*.csv
+
+# Artefatos locais de sessão/ferramentas
+session-ses_ee6a.md
+prompt_secoes.md
+.omo/
+.playwright-mcp/
+.DS_Store
