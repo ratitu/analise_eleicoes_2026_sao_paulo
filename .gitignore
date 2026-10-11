@@ -17,3 +17,5 @@ prompt_secoes.md
 .omo/
 .playwright-mcp/
 .DS_Store
+# Cache de byte-code Python
+__pycache__/
